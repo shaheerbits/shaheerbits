@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently pursuing a BCA degree at NSBT MGM University<br>🎯 Goals: Become a low-level developer<br>🎲 Fun fact: I can only remember a language's syntax for 2 weeks without practicing</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently pursuing a BCA degree at NSBT MGM University<br>🎯 Goals: Become a s-tier developer<br>🎲 Fun fact: Coding is the only entertainment</p>
 
 ###
 
