@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" height="40" alt="pygame logo"  />
+  <img src="https://github.com/shaheercodes-allday/shaheercodes-allday/blob/main/pygame_lofi.png" height="40" alt="pygame logo"  />
 </div>
 
 ###
@@ -58,6 +58,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheer-codes&show_icons=true&locale=en&layout=compact" alt="zarel-blessed" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheercodes-allday&show_icons=true&locale=en&layout=compact" alt="shaheercodes-allday" /></p>
 
 ###
