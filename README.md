@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://github.com/shaheercodes-allday/shaheercodes-allday/blob/main/Working%20Work%20At%20Home%20GIF%20by%20BLIFE%20Protocol.gif" width="300" height="300" />
+<img src="https://github.com/shaheerbits/shaheerbits/blob/main/Working%20Work%20At%20Home%20GIF%20by%20BLIFE%20Protocol.gif" width="300" height="300" />
 
 ###
 
@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://github.com/shaheercodes-allday/shaheercodes-allday/blob/main/pygame_lofi.png" height="25" alt="pygame logo"  />
+  <img src="https://github.com/shaheerbits/shaheercodes-allday/blob/main/pygame_lofi.png" height="25" alt="pygame logo"  />
 </div>
 
 ###
@@ -58,6 +58,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheercodes-allday&show_icons=true&locale=en&layout=compact" alt="shaheercodes-allday" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheerbits&show_icons=true&locale=en&layout=compact" alt="shaheerbits" /></p>
 
 ###
