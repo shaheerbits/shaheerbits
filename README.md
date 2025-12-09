@@ -60,6 +60,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheerbits&show_icons=true&locale=en&layout=compact" alt="shaheerbits" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?shaheerbits=voyager19878" alt="top langs"/></p>
 
 ###
