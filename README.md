@@ -1,66 +1,38 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Shaheer 👋
 
-###
+### 🚀 Software Dev & Systems Thinker
+I build clean, performant applications and love diving into the internals of modern languages and tools. Currently focusing on systems programming, efficient data structures, and developer tooling.
 
-<img src="https://github.com/shaheerbits/shaheerbits/blob/main/Working%20Work%20At%20Home%20GIF%20by%20BLIFE%20Protocol.gif" width="300" height="300" />
+---
 
-###
+## 🛠️ My Tech Stack
 
-<p align="left">It's your friendly neighborhood programming guy, Shaheer__ Or you can call me Zarel!</p>
+| Category | Languages & Tools |
+| :--- | :--- |
+| **Languages** | Zig, Go, TypeScript, Java, Python, C++ |
+| **Backend & Systems** | Node.js, PostgreSQL, MongoDB, ExpressJS |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Tools & OS** | Git, GitHub Actions, PowerShell |
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 📈 GitHub Stats
 
-###
+<p>
+  <img src="https://streak-stats.demolab.com/?user=shaheerbits&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="42%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shaheerbits&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Stats" width="30%" />
+</p>
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently pursuing a BCA degree at NSBT MGM University<br>🎯 Goals: Become a s-tier developer<br>🎲 Fun fact: Coding is the only entertainment</p>
+---
 
-###
+## 🧠 Current Deep Dives
 
-<h2 align="left">I work with ✨</h2>
+> **What I'm learning right now:** Exploring advanced compile-time evaluation (`comptime`), safe memory management strategies without a garbage collector, and designing strict type systems for high-throughput backends.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://github.com/shaheerbits/shaheercodes-allday/blob/main/flutter-logo-png_seeklogo-354671.png" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://github.com/shaheerbits/shaheercodes-allday/blob/main/pygame_lofi.png" height="25" alt="pygame logo"  />
-</div>
+## 📫 Let's Connect!
 
-###
-
-<h2 align="left">GitHub Stats 🦄</h2>
-
-###
-
-![](https://streak-stats.demolab.com/?user=shaheerbits&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shaheerbits&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-###
+* **LinkedIn:** [/in/shaheerbits](https://linkedin.com/in/shaheerbits)
+* **Twitter/X:** comming soon!
